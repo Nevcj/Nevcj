@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on PhonePe using Bootstrap<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Fullstack, UI/UX, Cybersecurity</p>
+<p align="left">🔭 I’m currently working on AI ChatBot<br>🌱 I’m currently learning Java Full Stack<br>💬 Ask me about Fullstack, UI/UX, Cybersecurity</p>
 
 ###
 
